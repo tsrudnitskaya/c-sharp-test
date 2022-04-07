@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SinglyLinkedList_lib
 {
-    public class Class1
+    public class SinglyLinkedList
     {
     }
 }
